@@ -15,10 +15,13 @@ Wanted to learn PCB Design more and also thought this was a very cool project to
 - ~2V LED
 
 # PCB, Schematic, and 3D Model
+
 ## PCB
 <img width="943" height="565" alt="image" src="https://github.com/user-attachments/assets/07745de2-c854-49c2-8dc8-dddbba2a10f6" />
+
 ## Schematic
 <img width="605" height="414" alt="image" src="https://github.com/user-attachments/assets/48380f8e-6288-4c96-8d67-c10433af89df" />
+
 ## 3D Model
 <img width="1060" height="734" alt="image" src="https://github.com/user-attachments/assets/82caf5bd-b259-4d90-bd47-e24fc51eff18" />
 
