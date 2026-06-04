@@ -1,1 +1,26 @@
-# Hacker-Card
+# Hacker Card
+Hacker Card is an NFC Powered business card that opens a website when in contact with an NFC device!
+<img width="363" height="212" alt="PCB_PCB_Personal-Card_2026-06-04" src="https://github.com/user-attachments/assets/a3ca9480-f7c2-4b3d-a209-ccad8a38b3fb" />
+
+
+# Why?
+Wanted to learn PCB Design more and also thought this was a very cool project to make!
+
+# How
+## To make this project you need:
+- NT3H2111W0FHKH NFC Chip
+- NFC ANTENNA
+- 220nF Capacitor
+- 47Ω Resistor
+- ~2V LED
+
+# PCB, Schematic, and 3D Model
+## PCB
+<img width="943" height="565" alt="image" src="https://github.com/user-attachments/assets/07745de2-c854-49c2-8dc8-dddbba2a10f6" />
+## Schematic
+<img width="605" height="414" alt="image" src="https://github.com/user-attachments/assets/48380f8e-6288-4c96-8d67-c10433af89df" />
+## 3D Model
+<img width="1060" height="734" alt="image" src="https://github.com/user-attachments/assets/82caf5bd-b259-4d90-bd47-e24fc51eff18" />
+
+# Zine
+<img width="420" height="595" alt="A5 - 1 (2)" src="https://github.com/user-attachments/assets/61483e8a-16f2-4cc9-a6d0-423b74c16d3e" />
