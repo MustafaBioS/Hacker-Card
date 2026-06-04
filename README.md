@@ -9,10 +9,16 @@ Wanted to learn PCB Design more and also thought this was a very cool project to
 # How
 ## To make this project you need:
 - NT3H2111W0FHKH NFC Chip
-- NFC ANTENNA
 - 220nF Capacitor
 - 47Ω Resistor
 - ~2V LED
+## BOM
+Item:,Price:,Link:
+NT3H2111W0FHKH NFC Chip,$0.79,https://jlcpcb.com/partdetail/NxpSemicon-NT3H2111W0FHKH/C710403
+220nF Capacitor,$0.01,https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120
+ 47Ω Resistor,$0.01,https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182
+~2V LED,$0.02,https://jlcpcb.com/partdetail/Hubei_KentoElec-17_21SUYCTR8/C2296[BOM.csv](https://github.com/user-attachments/files/28613884/BOM.csv)
+
 
 # PCB, Schematic, and 3D Model
 
