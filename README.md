@@ -14,7 +14,7 @@ Wanted to learn PCB Design more and also thought this was a very cool project to
 - ~2V LED
 ## BOM
 | Item | Price | Link |
-| :---: | :---: | :---: |
+| :--- | :---: | :---: |
 | `NT3H2111W0FHKH NFC Chip` | $0.79 | [Link](https://jlcpcb.com/partdetail/NxpSemicon-NT3H2111W0FHKH/C710403) |
 | `220nF Capacitor` | $0.01 | [Link](https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120) |
 | `47Ω Resistor` | $0.01 | [Link](https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182) |
