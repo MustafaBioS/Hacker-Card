@@ -1,5 +1,5 @@
 # Hacker Card
-Hacker Card is an NFC Powered business card that opens a website when in contact with an NFC device!
+Hacker Card is an NFC Powered business card that opens a website when in contact with an NFC device!<br>
 <img width="363" height="212" alt="PCB_PCB_Personal-Card_2026-06-04" src="https://github.com/user-attachments/assets/a3ca9480-f7c2-4b3d-a209-ccad8a38b3fb" />
 
 
