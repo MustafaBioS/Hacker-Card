@@ -19,6 +19,8 @@ Wanted to learn PCB Design more and also thought this was a very cool project to
 | `220nF Capacitor` | $0.01 | [Link](https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120) |
 | `47Ω Resistor` | $0.01 | [Link](https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182) |
 | `~2V LED` | $0.02 | [Link](https://jlcpcb.com/partdetail/Hubei_KentoElec-17_21SUYCTR8/C2296) |
+| `NFC ANTENNA` |	$2.82 |	[Link](https://ar.aliexpress.com/item/1005007698497375.html?gatewayAdapt=glo2ara) |
+| `Total` |	$3.65 |	None |
 
 # PCB, Schematic, and 3D Model
 
