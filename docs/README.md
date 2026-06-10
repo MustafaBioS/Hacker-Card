@@ -32,4 +32,5 @@ Wanted to learn PCB Design more and also thought this was a very cool project to
 <img width="1060" height="734" alt="image" src="https://github.com/user-attachments/assets/82caf5bd-b259-4d90-bd47-e24fc51eff18" />
 
 # Zine
-<img width="420" height="595" alt="A5 - 1 (2)" src="https://github.com/user-attachments/assets/61483e8a-16f2-4cc9-a6d0-423b74c16d3e" />
+<img width="420" height="595" alt="A5 - 1 (4)" src="https://github.com/user-attachments/assets/352b5ddc-69f9-44c2-85bc-e93d8b6f9661" />
+
