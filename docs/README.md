@@ -20,7 +20,8 @@ Wanted to learn PCB Design more and also thought this was a very cool project to
 | `47Ω Resistor` | $0.01 | [Link](https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182) |
 | `~2V LED` | $0.02 | [Link](https://jlcpcb.com/partdetail/Hubei_KentoElec-17_21SUYCTR8/C2296) |
 | `NFC ANTENNA` |	$2.82 |	[Link](https://ar.aliexpress.com/item/1005007698497375.html?gatewayAdapt=glo2ara) |
-| `Total` |	$3.65 |	None |
+| `PCB Fab` | ~~$4.00~~ $2.00 | [Link](https://cart.jlcpcb.com/quote?fileId=ae08ee2d937e4f5b9f51ab8cb0390383&uuid=bf3aff0cc4e043d995cf1d5ecc27e075&achieveDate=72&eadLink=2&electropolishingOnlyNo=no) |
+| `Total` |	$5.65 |	None |
 
 # PCB, Schematic, and 3D Model
 
